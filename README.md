@@ -5,7 +5,7 @@ To run:
 
  - First, get the project using:
 
-    ```go get https://github.com/kdrombosky/drumMachine```
+    ```git clone https://github.com/kdrombosky/drumMachine.git```
 
  - From the drumMachine directory, run using: 
     
