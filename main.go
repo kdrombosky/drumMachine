@@ -25,7 +25,7 @@ func printMenu() {
 		"3) Play Take Five by Dave Brubeck (a pattern in 5/4, a compound meter)\n" +
 		"4) Play More Cowbell (it's just like it sounds)\n" +
 		"5) Exit")
-	fmt.Print("\nWhat would you like to do? (Please enter number 1-4): ")
+	fmt.Print("\nWhat would you like to do? (Please enter number 1-5): ")
 	input, err := getUserInput()
 	if err != nil {
 		os.Exit(0) // We already output the error in the func, so just exit here.
