@@ -9,12 +9,12 @@ To run:
 
  - From the drumMachine directory, run using: 
     
-    ```./run.sh```
+    ```sh run.sh```
 
 To test:
  - From the drumMachine directory, run using: 
     
-    ```./test.sh```
+    ```sh test.sh```
  
 
 Details:
